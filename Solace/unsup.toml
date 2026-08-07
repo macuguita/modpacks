@@ -13,3 +13,39 @@ description = "Disables the remodeled versions of vanilla animals. <b>Please not
 
 [metafile.mixed-litter-disable]
 flavors="mixed-litter_decline"
+
+[flavor_groups.xaero]
+name = "Xaero"
+side = "client"
+description = "Mods that add a minimap and a world map."
+[[flavor_groups.xaero.choices]]
+id = "xaero_yes"
+name = "Yes"
+description = "Enables xaero's mods."
+[[flavor_groups.xaero.choices]]
+id = "xaero_no"
+name = "No"
+description = "Does not enable xaero's mods."
+
+[metafile.xaeros-world-map]
+flavors="xaero_yes"
+[metafile.xaeros-minimap]
+flavors="xaero_yes"
+[metafile.e19_cobblemon_minimap_icons]
+flavors="xaero_yes"
+
+[flavor_groups.emi]
+name = "EMI"
+side = "client"
+description = "EMI recipe viewer."
+[[flavor_groups.emi.choices]]
+id = "emi_yes"
+name = "Yes"
+description = "Enables EMI."
+[[flavor_groups.emi.choices]]
+id = "emi_no"
+name = "No"
+description = "Does not enable EMI"
+
+[metafile.emi]
+flavors="emi_yes"

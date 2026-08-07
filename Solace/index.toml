@@ -538,9 +538,14 @@ hash = "1cf6f482ecd3cd706e5b38640333a1492d31011b491c7ca44897af572fe4379a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "89ece4588598fe03c895b08a4b12260020fdabb96a26be1a1c545edefce47c6c"
 
 [[files]]
 file = "unsup.toml"
-hash = "20f0df5b720cb0de1636a6b82e9ddb70e67e7840311918bdf17a8df9cff751a1"
+hash = "9bc268da5bf8d16271ce530475bcf4ded258d80166f0eaf63161c2863e440c8f"
