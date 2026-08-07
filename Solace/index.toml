@@ -48,6 +48,11 @@ hash = "7c8768bbc4ddf8189fe3b6de7c3507d002a2a971bc15f9bfcc11f3225bb18de1"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "b4d4a1b9d1bf113cd8030e3ec2b7b4349905be6a6279e3c3633ca0d54d972562"
 metafile = true
