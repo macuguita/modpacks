@@ -1,0 +1,13 @@
+name = "Force Crawl"
+filename = "forcecrawl-fabric-1.21-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dt4QjOA/versions/Ll52YUpv/forcecrawl-fabric-1.21-1.0.5.jar"
+hash-format = "sha512"
+hash = "209cf72267d2f63806c77dc68a08118e8379227e1571b8ab746f07e0869a3ec4548649a4b04563ef1bcaa4d04e107c28a41b382dddd469c7eeab9039d115b769"
+
+[update]
+[update.modrinth]
+mod-id = "8dt4QjOA"
+version = "Ll52YUpv"
