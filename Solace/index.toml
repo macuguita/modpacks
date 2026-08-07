@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/solace-smp-tweaks.pw.toml"
-hash = "12c831d4e251f995eaba7e4b5959feaaf18a599400b4757bbbe00f433d18195b"
+hash = "9e4db219828b3c2408c9a4fc2bd9bad763f6684100520a6bfbcb5e0315b1811b"
 metafile = true
 
 [[files]]
