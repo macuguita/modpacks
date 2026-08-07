@@ -478,6 +478,11 @@ hash = "60cce151dc2d10f446a39ccc5ae974d374ffe31e16984b51f913c65e795642f3"
 metafile = true
 
 [[files]]
+file = "mods/solace-smp-tweaks.pw.toml"
+hash = "12c831d4e251f995eaba7e4b5959feaaf18a599400b4757bbbe00f433d18195b"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
 hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
 metafile = true
