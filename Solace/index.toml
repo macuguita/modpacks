@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3e0c8e0e78ced5db1703fa1ce676c23db352a0bff68789ccda99edd899751ec1"
+hash = "60cce151dc2d10f446a39ccc5ae974d374ffe31e16984b51f913c65e795642f3"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "c60374f37de53a5018784439bd3992fc54314105843fcdc3eacb2fe8254912ee"
+hash = "607e39af841e424c07e2611ba0524a16ad494153b354cdc4b5b763349c285b2d"
 metafile = true
 
 [[files]]
