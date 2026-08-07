@@ -19,6 +19,10 @@ hash = "1cf6f482ecd3cd706e5b38640333a1492d31011b491c7ca44897af572fe4379a"
 metafile = true
 
 [[files]]
+file = "mods/SizeVariations-1.0-SNAPSHOT.jar"
+hash = "ba1b02eb2909c06a47d3d4936bafb75f7eefa107cf45f0b48af079bf9277a887"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
