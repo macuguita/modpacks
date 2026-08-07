@@ -113,6 +113,16 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/creeper-spores-fabric.pw.toml"
+hash = "f78ed20d8bc7f7eecd567b8005f88474ff2f8b1bee49572d0c4124c90d8e4f5e"
+metafile = true
+
+[[files]]
+file = "mods/daisy-server-utilitites.pw.toml"
+hash = "10ae57297ec8a319d565de11b8f198b72d675aa5b84c7de9d3d045b24c791423"
+metafile = true
+
+[[files]]
 file = "mods/datapacks.pw.toml"
 hash = "ee8ebc5b30f4e529382bc93cc72ab1cd3e496cdd69099c13f5f3f8df350db2d2"
 metafile = true
@@ -530,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]

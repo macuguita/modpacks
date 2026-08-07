@@ -1,0 +1,14 @@
+name = "daisy-server-utilitites"
+side = "server"
+filename = "daisy-server-utilities-0.0.1-SNAPSHOT.jar"
+
+[update.github]
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+tag = "update13"
+branch = "1.21.1"
+slug = "macuguita/daisy-server-utilitites"
+
+[download]
+hash-format = "sha256"
+url = "https://github.com/macuguita/daisy-server-utilitites/releases/download/update13/daisy-server-utilities-0.0.1-SNAPSHOT.jar"
+hash = "b18eeea829045c46fe3ccfb6e3f7195d1c147972d6d53c4cf5c87cde4941ee29"

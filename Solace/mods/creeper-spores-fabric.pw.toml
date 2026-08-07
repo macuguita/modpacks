@@ -1,0 +1,15 @@
+name = "Creeper-Spores-Fabric"
+filename = "creeper-spores-1.13.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/macuguita/Creeper-Spores-Fabric/releases/download/1.13.2/creeper-spores-1.13.2-fabric.jar"
+hash-format = "sha256"
+hash = "dbbb36605ab9a408cb0b24dc702d64192deade0d8ad2e25c26a7380a4e7c4b67"
+
+[update]
+[update.github]
+branch = "1.21"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "macuguita/Creeper-Spores-Fabric"
+tag = "1.13.2"
