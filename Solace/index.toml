@@ -288,6 +288,11 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "5bd82beaf0de0d073b618f57c0b7f2ae1bb34183f6003afcccba39275b5eb6d1"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "c12090d1aa1239085a4b3d790900823ad14a40eacbd8fa42d9626d22995a8a80"
 metafile = true

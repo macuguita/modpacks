@@ -1,0 +1,13 @@
+name = "Ledger Databases"
+filename = "ledger-databases-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qo9qFPdi/versions/uu4NRjRf/ledger-databases-1.2.1.jar"
+hash-format = "sha512"
+hash = "e0970444817b453933e697bd211abed32829c849f2c891e4ed1806eea5434c52664460e162622d2aba3716ddabc66c9644f0585acb23940d7e7ccbb9084aa330"
+
+[update]
+[update.modrinth]
+mod-id = "qo9qFPdi"
+version = "uu4NRjRf"
