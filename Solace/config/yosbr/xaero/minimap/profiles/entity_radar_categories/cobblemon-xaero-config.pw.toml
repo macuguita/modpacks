@@ -1,0 +1,8 @@
+name = "cobblemon-xaero-config"
+side = "client"
+filename = "default.cfg.json"
+
+[download]
+hash-format = "sha256"
+url = "https://gist.githubusercontent.com/macuguita/8f4e464ad71fbe5e37e655c4744225b8/raw/0591f0ceda869dbaea2aad6b2d6863f41a417962/default.cfg.json"
+hash = "41f913da44a9d722c24edf08259b0d53eb8c2308dd2860f875e37ed8e14afb9f"

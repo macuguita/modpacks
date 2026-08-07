@@ -31,6 +31,8 @@ description = "Does not enable xaero's mods."
 flavors="xaero_yes"
 [metafile.xaeros-minimap]
 flavors="xaero_yes"
+[metafile.cobblemon-xaero-config]
+flavors="xaero_yes"
 [metafile.e19_cobblemon_minimap_icons]
 flavors="xaero_yes"
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mixed-litter-disable.pw.toml"
-hash = "0efdc4ebfbfeef25aaa45b13fc3cd0f3f0d68351c9dc0020c74806763b7a796d"
+hash = "4cf52a8cc7d37d160a026ed421d7ccb6d30327e2fa24190d77fd6ca64a28b4eb"
 metafile = true
 
 [[files]]
@@ -12,6 +12,11 @@ hash = "bfa9e66a845072e77711f78daa5e3445c02a16ff9ca96adeb4f3c70b7d96a3f7"
 [[files]]
 file = "config/stackdeobf.json"
 hash = "0bf1c15a12a466be1dcee4bc2bc751a464cecde6dd5402e959856513a1d83ad7"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/cobblemon-xaero-config.pw.toml"
+hash = "8142b13af9ecf116c1415d1e61dc8de7d3b5aa93e87f408c8033846e7c78486b"
+metafile = true
 
 [[files]]
 file = "datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
@@ -523,6 +528,11 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
 metafile = true
@@ -548,4 +558,4 @@ hash = "89ece4588598fe03c895b08a4b12260020fdabb96a26be1a1c545edefce47c6c"
 
 [[files]]
 file = "unsup.toml"
-hash = "9bc268da5bf8d16271ce530475bcf4ded258d80166f0eaf63161c2863e440c8f"
+hash = "e09a0e2b8dd78ced8431323d6130cb5addf7759d57ec105d4caf6afd0521804e"
