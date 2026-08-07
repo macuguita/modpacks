@@ -133,6 +133,11 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "e811185f1b2c3d26c5bb3dfcab59d1e86dee35815f7f25a10efec48cf4f48b4e"
 metafile = true
@@ -578,4 +583,4 @@ hash = "89ece4588598fe03c895b08a4b12260020fdabb96a26be1a1c545edefce47c6c"
 
 [[files]]
 file = "unsup.toml"
-hash = "e09a0e2b8dd78ced8431323d6130cb5addf7759d57ec105d4caf6afd0521804e"
+hash = "58ee6cda7fbbb22b46f245ea728eb25c803464acebc8a541e083d70e3cbc0573"

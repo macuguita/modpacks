@@ -51,3 +51,19 @@ description = "Does not enable EMI"
 
 [metafile.emi]
 flavors="emi_yes"
+
+[flavor_groups.distanthorizons]
+name = "Distant Horizons"
+side = "client"
+description = "Distant Horizons, Massively increase render distance without harming performance, with LODs."
+[[flavor_groups.distanthorizons.choices]]
+id = "distanthorizons_yes"
+name = "Yes"
+description = "Enables Distant Horizons."
+[[flavor_groups.distanthorizons.choices]]
+id = "distanthorizons_no"
+name = "No"
+description = "Does not enable Distant Horizons"
+
+[metafile.distanthorizons]
+flavors="distanthorizons_yes"
