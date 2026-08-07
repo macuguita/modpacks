@@ -1,0 +1,13 @@
+name = "guita's Woodworks"
+filename = "gwoodworks-1.2.7a+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTFyR6MX/versions/BlGZc3En/gwoodworks-1.2.7a%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "c8c074bce6668c021fc144cbd10a90adae0acabf9ac7380c3152cbc757717b8f2c449bdcefe8ff6e212e2a469341d88b51d948c17e93934643ec5f0ac7655992"
+
+[update]
+[update.modrinth]
+mod-id = "NTFyR6MX"
+version = "BlGZc3En"

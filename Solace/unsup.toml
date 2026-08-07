@@ -1,0 +1,15 @@
+[flavor_groups.mixed-litter]
+name = "Mixed litter"
+side = "client"
+description = "A mod that adds remodeled versions of Minecraft's vanilla animals."
+[[flavor_groups.mixed-litter.choices]]
+id = "mixed-litter_accept"
+name = "Yes"
+description = "Enables remodeled versions of vanilla animals."
+[[flavor_groups.mixed-litter.choices]]
+id = "mixed-litter_decline"
+name = "No"
+description = "Disables the remodeled versions of vanilla animals. <b>Please note: this option is unofficial and not supported by the server administrators. If enabling it causes issues, do not request support on the server.</b>"
+
+[metafile.mixed-litter-disable]
+flavors="mixed-litter_decline"

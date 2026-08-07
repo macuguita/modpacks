@@ -1,0 +1,13 @@
+name = "Every Compat (Gems Realm)"
+filename = "gemsrealm-1.21-2.11.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v259p1An/versions/dURHN7PY/gemsrealm-1.21-2.11.3-fabric.jar"
+hash-format = "sha512"
+hash = "5e7e3581397768c00b52dddf514a51972a01e9c87fbb7404af9181792c402849ef908d68416334cbc2f3a52778162efcc97befc92f1c1c6111c85b339851d2f4"
+
+[update]
+[update.modrinth]
+mod-id = "v259p1An"
+version = "dURHN7PY"

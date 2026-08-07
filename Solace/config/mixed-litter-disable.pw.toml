@@ -1,0 +1,8 @@
+name = "mixed-litter-disable"
+filename = "mixed_litter-startup.toml"
+side = "both"
+
+[download]
+url = "https://gist.githubusercontent.com/macuguita/2152287e465fd08e7b56209aa25b99b6/raw/2dbdbc122df28b4c0e88ee03581e5ef65c30b94e/mixed_litter-startup.toml"
+hash-format = "sha256"
+hash = "8758d8c00fce0a0de1ee5c5d06ea5a81508c0782470194b9100c205dc0745c2a"
