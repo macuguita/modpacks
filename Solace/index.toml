@@ -14,7 +14,7 @@ file = "config/stackdeobf.json"
 hash = "0bf1c15a12a466be1dcee4bc2bc751a464cecde6dd5402e959856513a1d83ad7"
 
 [[files]]
-file = "config/xaero/minimap/profiles/entity_radar_categories/cobblemon-xaero-config.pw.toml"
+file = "config/yosbr/xaero/minimap/profiles/entity_radar_categories/cobblemon-xaero-config.pw.toml"
 hash = "8142b13af9ecf116c1415d1e61dc8de7d3b5aa93e87f408c8033846e7c78486b"
 metafile = true
 
