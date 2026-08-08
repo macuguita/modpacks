@@ -51,6 +51,8 @@ description = "Does not enable EMI"
 
 [metafile.emi]
 flavors="emi_yes"
+[metafile.jei]
+flavors="emi_yes"
 
 [flavor_groups.distanthorizons]
 name = "Distant Horizons"
