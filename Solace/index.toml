@@ -93,6 +93,11 @@ hash = "827068db8669c6736b4269a2b245913cf0004c4b864c3d65fe07ce408fb86627"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "3f2889c50af9059fdd815782bb2fdb2fef9728e7d8531b5f124e433ec25910bc"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "740812a609fbbdd3f8ee647ba18b3ed364e6f8b83f70b6ee262823ff78cfe08b"
 metafile = true
@@ -105,6 +110,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "dcff4edff3f1640641f9a5f17d17d1328565f9088e97f03773aa6bf8c54a8eb0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unchained.pw.toml"
+hash = "9df73e71e47b3f68b8edcce69d25fc9ac8a92445513280bcd21a90d915b5105d"
 metafile = true
 
 [[files]]

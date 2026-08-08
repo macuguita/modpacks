@@ -1,0 +1,13 @@
+name = "Cobblemon Unchained"
+filename = "unchained-fabric-1.7.3-1.7.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/uFACxWHR/unchained-fabric-1.7.3-1.7.1.jar"
+hash-format = "sha512"
+hash = "d29af42904a8b12a0cb795a9921de91e4abc004001708cea21ac8b183a688761cb0aab4abed613d969f30e72aa76d5508556101100d1251f472fd723c1866711"
+
+[update]
+[update.modrinth]
+mod-id = "wh0wnzrT"
+version = "uFACxWHR"
