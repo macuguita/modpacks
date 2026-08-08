@@ -1,5 +1,5 @@
 name = "Cobblemon Counter"
-side = "server"
+side = "both"
 filename = "counter-fabric-1.7.3-1.9.0.jar"
 
 [update.modrinth]
