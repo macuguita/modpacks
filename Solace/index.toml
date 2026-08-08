@@ -313,6 +313,11 @@ hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
+metafile = true
+
+[[files]]
 file = "mods/kilt.pw.toml"
 hash = "fb9f158300988c8cf742b8ff86b1d63e29517407e411456e94f989a81d73f70c"
 metafile = true
