@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "dcff4edff3f1640641f9a5f17d17d1328565f9088e97f03773aa6bf8c54a8eb0"
+hash = "8ba1cb6d402236c08a65ffcf94f01bc988111a3f0b87b268030bfe9b543199e9"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-unchained.pw.toml"
-hash = "9df73e71e47b3f68b8edcce69d25fc9ac8a92445513280bcd21a90d915b5105d"
+hash = "bcee51071c9ec7dca70326e061231528a36f35ce8caa79a69298e283fdeb525c"
 metafile = true
 
 [[files]]
