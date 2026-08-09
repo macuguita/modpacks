@@ -113,6 +113,11 @@ hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-release-rewards.pw.toml"
+hash = "443b219f9816a7a119c349ab0ee3c97f9368712cdce967cfabfacf564ca29ad5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "8ba1cb6d402236c08a65ffcf94f01bc988111a3f0b87b268030bfe9b543199e9"
 metafile = true
@@ -225,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
@@ -385,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "8e4073b493fc9a8f8d1ccc9ab29d37f9f4413271e7dc8bed30357616a3dface1"
+metafile = true
+
+[[files]]
+file = "mods/lootrmon.pw.toml"
+hash = "942152b427795abe9456546d323d0f90d1dbe7692200874ca2dd76da8f265ad3"
 metafile = true
 
 [[files]]
