@@ -263,6 +263,11 @@ hash = "a0a3d38daafb58117aaf29bb0b0520534abb7175e8d98f63cb47a65c75afac79"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "19fad0686ce50d6f894e70cfd3c1302624dd549c818f8ff021624730c0d273f1"
 metafile = true
