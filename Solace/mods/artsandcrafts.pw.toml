@@ -1,0 +1,13 @@
+name = "Arts & Crafts"
+filename = "arts_and_crafts-fabric-1.21.1-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JI9mEkvq/versions/9uKP9W23/arts_and_crafts-fabric-1.21.1-1.5.4.jar"
+hash-format = "sha512"
+hash = "5e1a838c9b9008c54642d4b2f0326abb32f3563f853618a1423ed67ec3b863247cce159fa5052d2d8f50025f61e58f245e52a0bfba7f40c02fb36aea86702255"
+
+[update]
+[update.modrinth]
+mod-id = "JI9mEkvq"
+version = "9uKP9W23"
