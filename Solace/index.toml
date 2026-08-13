@@ -353,6 +353,11 @@ hash = "1a30c0b871e7300e6ff3e3e4bc868794d7d2f4f52a8f5ce2541c025eba8e51ea"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
