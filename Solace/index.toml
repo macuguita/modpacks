@@ -673,6 +673,11 @@ hash = "a9f7ce3ef90cd500e451ff6534d42f0532150d5f207c974468295fbe8c7b5a47"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "1cf6f482ecd3cd706e5b38640333a1492d31011b491c7ca44897af572fe4379a"
 metafile = true
