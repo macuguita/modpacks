@@ -38,6 +38,11 @@ hash = "815cc784e93eb4b7c8b9969b8662eac3bbe9f3539c69d774acef5d0d3bf6f8c9"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
@@ -500,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "246e7782ef2cab501af48f56353de9d6a46f3479dcb12f282152eeacd03b7e60"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
 
 [[files]]
