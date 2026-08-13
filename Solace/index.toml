@@ -28,11 +28,6 @@ file = "mods/SizeVariations-1.0-SNAPSHOT.jar"
 hash = "ba1b02eb2909c06a47d3d4936bafb75f7eefa107cf45f0b48af079bf9277a887"
 
 [[files]]
-file = "mods/accessories-compat-layer.pw.toml"
-hash = "427ebc22faea5a83602994fda8ce762e45246472a5637debd5dcab22553917ce"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -635,11 +630,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "b451e74852b2ed183c43a62692ab0aff7cfa8599d28ea88970a2760b81153d7f"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
