@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "15b44f72536a7b33c67347ea3f1a1357a431c13392439bdc99e7ebc75c31d735"
+hash = "5fad0bd9dc3e8286dfb38e0fbf18ad7db6bf864611ac45be09bf18ce93c4ee3a"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/envelope.pw.toml"
-hash = "c8d3dfc5902c27911af59babb02f4b922f4f5a9ef2fde0d5eb5e605e37200edc"
+hash = "ee4140a36835801edac88cdb386dba504e8134e8ce77780156fdf162f0cd26e3"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "1fcaece229ee5b6a8a87bf7437525ab942b96c31552d1f5e4f5e87ec8e2b1a7f"
+hash = "109d43eb1e9d56d89dda771dcbf4fd3e96ab16b67d42b250ed5b098ab84d46be"
 metafile = true
 
 [[files]]
@@ -359,12 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5a8d1937703f100d0c709d4b83ffd8639cd330f48ee174fb3afc808da7b09155"
+hash = "852f8212a0f8a7b0d0ebdc6f1671ea5a6bf148c00b7f10f8eb280bf1aa6d9740"
 metafile = true
 
 [[files]]
 file = "mods/kilt.pw.toml"
-hash = "fb9f158300988c8cf742b8ff86b1d63e29517407e411456e94f989a81d73f70c"
+hash = "9d444f5c503e8f18171b8858081c97cffa74e711e5ececa5dbe4e16ce29c74f7"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "580d838b5866719ef26684ff99beeceaa2e98d8b259e7944197dbad1cffda525"
+hash = "52ca6fe02f7242daf7e3d253f9e6b26c16535896ae731163827d90e3fe174c9e"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b07c9051dc5854862f6f16691ccd0b781d41684aaff05341fbd449c572b5aefa"
+hash = "6c236a3eb1252f7a2e1dba35fb301d41f788358320aad4f2ce97b5dd2d79db3e"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "5e54230c0defec516c44e1b786cc9c0223d98b17f9d6f7348f9fb950b1c9a40f"
+hash = "db550507b5a88bd07bcddab5da0e1c2a32a432ea9e562ce6c53dbbec0ad884a8"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ce74258e1127e45e90a6b2337c5fe57b3619c3d947e2fef357c18d80f74aba02"
+hash = "7120d598537ff25a0da4144b0b6ea7b5b1502bf3ed65f9db6030d4ab353ff260"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "607e39af841e424c07e2611ba0524a16ad494153b354cdc4b5b763349c285b2d"
+hash = "fb5b3ca7b52d5aaa1f606017173879e9dc5b8e7604eeaf2d737587fef58835d7"
 metafile = true
 
 [[files]]
