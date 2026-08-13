@@ -368,6 +368,11 @@ hash = "852f8212a0f8a7b0d0ebdc6f1671ea5a6bf148c00b7f10f8eb280bf1aa6d9740"
 metafile = true
 
 [[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "2aa483960df75b01d3a1e08fcce318e53da714d26b0109463721f8eb6c7e062b"
+metafile = true
+
+[[files]]
 file = "mods/kilt.pw.toml"
 hash = "9d444f5c503e8f18171b8858081c97cffa74e711e5ececa5dbe4e16ce29c74f7"
 metafile = true
