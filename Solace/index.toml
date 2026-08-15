@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5fad0bd9dc3e8286dfb38e0fbf18ad7db6bf864611ac45be09bf18ce93c4ee3a"
+hash = "742112e9a70435126ef930bad4bbd9d9e036f8f4fe681b08ad470d1b3209f9b8"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/envelope.pw.toml"
-hash = "ee4140a36835801edac88cdb386dba504e8134e8ce77780156fdf162f0cd26e3"
+hash = "fbb69fda1e3dcdde723f00121da75bfbf36053939615d906d3604c1809848c97"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "dca5083c1b8ee29f90b5c3c53e029d3cdbc92f6b17d04179d4f521926970124c"
+hash = "e0a63c1eac513dec5d10051c194bbe67348d961cb33d5fef594cd719fd0a2af0"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/solace-smp-tweaks.pw.toml"
-hash = "9e4db219828b3c2408c9a4fc2bd9bad763f6684100520a6bfbcb5e0315b1811b"
+hash = "1c263b50c2f60e4fb067657faa2ddadca1211e1cea311776f36e07cf572f59fe"
 metafile = true
 
 [[files]]
