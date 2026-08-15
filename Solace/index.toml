@@ -38,6 +38,11 @@ hash = "815cc784e93eb4b7c8b9969b8662eac3bbe9f3539c69d774acef5d0d3bf6f8c9"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
