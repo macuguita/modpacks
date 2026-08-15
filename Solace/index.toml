@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "bfa9e66a845072e77711f78daa5e3445c02a16ff9ca96adeb4f3c70b7d96a3f7"
+hash = "0223bb533efb2a65bd55c454d934e19513b1683ff2c3ba3c2ac16d71aeedd08e"
 
 [[files]]
 file = "config/stackdeobf.json"
