@@ -1,14 +1,15 @@
 name = "Solace-SMP-Tweaks"
-side = "both"
 filename = "solace-smp-tweaks-1.0.0.jar"
-
-[update.github]
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-tag = "release3"
-branch = "main"
-slug = "macuguita/Solace-SMP-Tweaks"
+side = "both"
 
 [download]
+url = "https://github.com/macuguita/Solace-SMP-Tweaks/releases/download/release4/solace-smp-tweaks-1.0.0.jar"
 hash-format = "sha256"
-url = "https://github.com/macuguita/Solace-SMP-Tweaks/releases/download/release3/solace-smp-tweaks-1.0.0.jar"
-hash = "21b2ae39a20df21e27b762ec782fa60b683cb5bfba78e62c8213fe83bffb8cd0"
+hash = "40c788df550598e098259e2f58e3e446a38ed4b0c1368a4d5e1c84d839ad3749"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "macuguita/Solace-SMP-Tweaks"
+tag = "release4"

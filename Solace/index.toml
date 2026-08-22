@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "740812a609fbbdd3f8ee647ba18b3ed364e6f8b83f70b6ee262823ff78cfe08b"
+hash = "71c8ec3aeda2b1b2cb2e407a7d1059541d435eff01b8a1a8342b1c854522fea4"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e0a63c1eac513dec5d10051c194bbe67348d961cb33d5fef594cd719fd0a2af0"
+hash = "dc20b628de7552e30ba9348b6f54ada6d07d92e2948c2d66eebdd8b1a04772e6"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "4e94f635510d86d01a94bbc78eb471632ebe203b58b88490a73a785d733e42ed"
+hash = "995014c1a601152fe8e01745d1a8f236a331dd07f0dcde814b8b5d4caa75186e"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
+hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "852f8212a0f8a7b0d0ebdc6f1671ea5a6bf148c00b7f10f8eb280bf1aa6d9740"
+hash = "3b5950a1554a2ffe949a54a4e2e021217c7a3f5ed0b2c5ff9ae46d27c5263e52"
 metafile = true
 
 [[files]]
@@ -419,12 +419,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "9200390dac9f546f69508c6b02604479abdf8c8590654d75d170b5bfe33e3383"
+hash = "1214190903d0b7f92eedb4979feda67640ad6e6cde8a1731c11808895700a0a8"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8e4073b493fc9a8f8d1ccc9ab29d37f9f4413271e7dc8bed30357616a3dface1"
+hash = "4a29f6cc5725671b0172a1d32e750f53bbf311e600fb184566b465add4486f85"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "52ca6fe02f7242daf7e3d253f9e6b26c16535896ae731163827d90e3fe174c9e"
+hash = "0e8eb6f9a21a0dabd936440a43f97122a05baa9d318e5a6bb2697fc42aecae98"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "50f72e4f9437d0719d952fdc72534508fc2fac7c74f4e785d21b84512fb6f573"
+hash = "d86c9c902af858b45719ca7cbbfa4d8820191491269f3d730e70baca1409f3e9"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "4a629c78c7f71542f3e1b413a67087c4447765b8854628732e51ea955cf019e9"
+hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/solace-smp-tweaks.pw.toml"
-hash = "a36b98e4dbdbabbbb74be750e85ccf463760612ac919ac10f2a95408bbcc1818"
+hash = "b74055053fca917a4c03c38ec960ba87fd038349ef7023a14ec3d1de64887cc0"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "db550507b5a88bd07bcddab5da0e1c2a32a432ea9e562ce6c53dbbec0ad884a8"
+hash = "677dd08d5d53df6ffe35a3d10b09e4f35b576cd46f262baecc62f73ec8a61adc"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7120d598537ff25a0da4144b0b6ea7b5b1502bf3ed65f9db6030d4ab353ff260"
+hash = "0a990f4440dc723d71b45a0d1bfdb55b4a0c7a9e3b1e76329879a9a866dd6d5b"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "fb5b3ca7b52d5aaa1f606017173879e9dc5b8e7604eeaf2d737587fef58835d7"
+hash = "3d8bf39744494f540cc11f53fa170f827feeb8abed77791d24a6f5aba555c46c"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5f2a15261ebaea82dfb935ee7fe77b1f9df050b84624dd198fb5a4eb51a7d832"
+hash = "88a08e812c5eda02f2ce52ddf833e59826527c32589989ccb937be67d9d89c76"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+hash = "78268845a56df861f1c6665af10e2640bbb9d05193b00dd2164259abf7b0d780"
 metafile = true
 
 [[files]]

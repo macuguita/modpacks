@@ -1,13 +1,13 @@
 name = "Every Compat (Wood Good)"
-filename = "everycomp-1.21-2.11.49-fabric.jar"
+filename = "everycomp-1.21-2.11.50-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/yPYNH43a/everycomp-1.21-2.11.49-fabric.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/4ccdp3Ka/everycomp-1.21-2.11.50-fabric.jar"
 hash-format = "sha512"
-hash = "d80563c4d24c19078ddb9dfa209cc4b02965951a73cbd609794cc8727cb7fa47f6f567bbefc6cb76e2158068fb518d4a1d77aabebe1242ab71112667a9ed0380"
+hash = "11d329af6f0244d5812de656ed06ee4ccf6e5133e32358bb43a457a7347012d40a19bf24979061c6632344dc2e4daf9e493f40fdbb4c684ab2bc3175e8dc9595"
 
 [update]
 [update.modrinth]
 mod-id = "eiktJyw1"
-version = "yPYNH43a"
+version = "4ccdp3Ka"
