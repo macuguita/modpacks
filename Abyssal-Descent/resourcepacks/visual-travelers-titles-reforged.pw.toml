@@ -1,0 +1,13 @@
+name = "Visual Traveler's Titles Reforged"
+filename = "visualtitles1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc4f57052dfac4c56b05f4e6d24cb5e356d422b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5965538
+project-id = 1153972

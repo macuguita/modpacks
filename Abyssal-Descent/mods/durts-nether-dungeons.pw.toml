@@ -1,0 +1,13 @@
+name = "Durt's Nether Dungeons"
+filename = "netherdungeons-1.1.0-snapshot4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70111374929e82ac2f3929545ecc173dceadf9e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5446468
+project-id = 815130

@@ -1,0 +1,13 @@
+name = "Abyssal Ascent Patcher Core"
+filename = "abyssalascentdimensionpatcher-1.0.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9a0994ab4b2f6394ea735be202a8a04b721ab58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359198
+project-id = 1367933

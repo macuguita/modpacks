@@ -1,0 +1,13 @@
+name = "Hud Texts"
+filename = "hud_texts_v3.2_1.20.1_[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "378dce93f96682f82109f5ec446833c82edab288"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5955062
+project-id = 896641

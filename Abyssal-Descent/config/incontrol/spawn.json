@@ -1,0 +1,14 @@
+[
+  {
+    "mob": "nethers_exorcism_reborn:strampler",
+    "result": "deny"
+  },
+  {
+    "mob": "nethers_exorcism_reborn:brogg",
+    "result": "deny"
+  },
+  {
+    "mob": "netherdungeons:baby_ghast",
+    "result": "deny"
+  }
+]

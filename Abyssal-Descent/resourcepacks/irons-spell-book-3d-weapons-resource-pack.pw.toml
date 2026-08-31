@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks 3D weapons Resource Pack"
+filename = "3d itens.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49854192a90a4f0cd0a2f34c4463747e4e1dabc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5815596
+project-id = 1118533

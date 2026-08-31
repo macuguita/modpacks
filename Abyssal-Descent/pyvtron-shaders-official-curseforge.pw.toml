@@ -1,0 +1,13 @@
+name = "Pyvtron Shaders"
+filename = "Pyvtron V1.3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7e66c5027dd11ddda9a309be494ddedb0784484"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6872566
+project-id = 1230724

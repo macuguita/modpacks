@@ -1,0 +1,13 @@
+name = "Alex Caves - Legendary Tremorzilla skin"
+filename = "Legendary-Tremorzilla-Skin.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "244a7962c4ce78c4e5214fc8ad8458eda0019398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5160501
+project-id = 983321

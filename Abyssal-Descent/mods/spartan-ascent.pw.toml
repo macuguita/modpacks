@@ -1,0 +1,13 @@
+name = "Spartan Ascent"
+filename = "spartan_ascent-0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49dab65494f9d54858fe8e3f12274d14bb991378"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7192507
+project-id = 1372634

@@ -1,0 +1,13 @@
+name = "Reforged REWORKED"
+filename = "Reforged-REWORKED-1.20.1-1.0.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5080bc57152e2748b727791d768d276921698dbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7279234
+project-id = 1376476

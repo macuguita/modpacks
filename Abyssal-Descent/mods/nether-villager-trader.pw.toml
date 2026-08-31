@@ -1,0 +1,13 @@
+name = "Nether Villager Trader"
+filename = "nethervillagertrader-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "004709acbaa89719bfe790f97b83935d92924490"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5623002
+project-id = 989053

@@ -1,0 +1,13 @@
+name = "Day Counter"
+filename = "day_counter_v5.1_1.20.1_[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0baefeda5c2e091a9b309938a608f21da63d3ff5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6717879
+project-id = 559334

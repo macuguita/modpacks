@@ -1,0 +1,13 @@
+name = "Deep Blue: A Bettas & Aquatics Addon!"
+filename = "Deep-Blue-Addon-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18c82a76d9879c588cf65cdc99649f76876ffa6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813304
+project-id = 1003099

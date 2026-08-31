@@ -1,0 +1,13 @@
+name = "Astral Dimension"
+filename = "Astral_1.8_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c37647b2a2fd99fcdcfedb2c185845bbc2b5a8f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6123491
+project-id = 645743
