@@ -191,6 +191,10 @@ hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
 metafile = true
 
 [[files]]
+file = "mods/random_player_height-1.0.0-sources.jar"
+hash = "51cb80bc338854e8e21234895d8a7bc3e7fc5e987dcced9f92492ed73b540d35"
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "b2828d6a6ebe7a5bc6b3c5c654705ff886032d0dc6618c59acec76888ee27dce"
 metafile = true
