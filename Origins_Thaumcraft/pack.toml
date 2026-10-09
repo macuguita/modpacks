@@ -1,0 +1,17 @@
+name = "Origins-Thaumcraft"
+author = "macuguita"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d36930cc978479be1e8e6b726e37273f00b33b8cdda1752fc02eff7ce5df522"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.114"
+unsup = "1.2.7"
+
+[options]
+acceptable-game-versions = ["26.1", "26.1.1"]

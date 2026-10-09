@@ -1,0 +1,13 @@
+name = "Joy of Painting"
+filename = "xercapaint-neoforge-26.1.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YOs4tZea/versions/Lf0ODGD6/xercapaint-neoforge-26.1.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "26a091562face684db2387f6d8c5deb9ff2fbdc01d05ea9627b37efb49bb824c56d31c48e5d84541d9b351a2bf753feae572369da240db0ad7cd941e5ee07a88"
+
+[update]
+[update.modrinth]
+mod-id = "YOs4tZea"
+version = "Lf0ODGD6"

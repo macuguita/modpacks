@@ -1,0 +1,13 @@
+name = "Wilderness Bound Backport"
+filename = "falldrop_backport-1.3.4-26.1.2-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uigvLKK4/versions/Ofyi0ND3/falldrop_backport-1.3.4-26.1.2-NeoForge.jar"
+hash-format = "sha512"
+hash = "a1954ab173a85fc91ce56fd36f9c616f761b34f0c7b99f183b6e629c3db2645a8e4f65d4c845d338750259fc63e76270f7e53c982cd2d6f0a7d4c2816a129811"
+
+[update]
+[update.modrinth]
+mod-id = "uigvLKK4"
+version = "Ofyi0ND3"

@@ -1,0 +1,13 @@
+name = "Moyai"
+filename = "moyai-26.1.2-3.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7WhFkyW/versions/rhxRpQiv/moyai-26.1.2-3.0.0-neoforge.jar"
+hash-format = "sha512"
+hash = "8d156d97a9d4a278f1082ff662a1f64e9365d8ca3db7f2a07e2748463f7158f8fc0fe433264716d7794570a3d29841a977e9920bcf2c4ba81a02fec490be9bc7"
+
+[update]
+[update.modrinth]
+mod-id = "z7WhFkyW"
+version = "rhxRpQiv"
