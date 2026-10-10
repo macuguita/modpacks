@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful_trinkets-1.0.0.jar"
-hash = "592a26a93d79a913d6dc292edb57455d939cd5d7041a92c2994035057b49462a"
+hash = "c363a8c11f377e1f463f0d1cfbbed71ddb46cd3bd44d85c8c68a9231bc201839"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
