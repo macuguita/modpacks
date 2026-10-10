@@ -86,6 +86,10 @@ hash = "cea38c4ac448ca70289d122ab38d854fb1966a4d37b1d871cb1f2a4bdd09ef39"
 metafile = true
 
 [[files]]
+file = "mods/delightful_trinkets-1.0.0.jar"
+hash = "592a26a93d79a913d6dc292edb57455d939cd5d7041a92c2994035057b49462a"
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "0ee5385345d2523b71f122eef15accb6afe549f498e466dd24a510a2e4d9ec2d"
 metafile = true
@@ -156,6 +160,11 @@ hash = "c8679fb2e8557214c8c04177712832443c69fa44b791a319c51f7eff39006e17"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "a86721cc79a893f06048ac7834856bb78cf8fd937f1fc043898f1305182c066b"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "f12f514a9ce9f12ed85983998724c1035b28b3470c5f992efe475f41533eed69"
 metafile = true
@@ -181,6 +190,11 @@ hash = "ab8ecf9e10ba7f3897f8331d90754ac44d34ecbc7e9a78ef65f089e742d8efac"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "eb3c570a21010cdf76a1bf0e23376b862f51d45063c94eea0c1488d0ed7ab2ee"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "7f1889797c00c8f6cb321f67bac511dfb0d93bc1f45f8df3d2ab7c326fca7282"
 metafile = true
@@ -197,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/random_player_height-1.0.0.jar"
-hash = "1eb0cf23d764f573cfb8e19c3568c3381eceabfd136d95c9dab1c2cdb5cffe38"
+hash = "55d13e2d88673ed575230b45cc7e9183ad2ca6475ad640b4df7374b9d12c7fbb"
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
