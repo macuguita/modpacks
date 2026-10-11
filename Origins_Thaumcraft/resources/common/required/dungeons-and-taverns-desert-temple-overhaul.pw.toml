@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Desert Temple Overhaul"
+filename = "DnT Desert Temple Overhaul v2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7JTDDmRT/versions/tOWwOzy4/DnT%20Desert%20Temple%20Overhaul%20v2.1.zip"
+hash-format = "sha512"
+hash = "4f9af3b9d28873cfc1be0956601300761960da2a7b0eb99cf986ab4472e771ec66812186fb60fadd6b9b6ed4a800d3de0075df3372b4542efeba0e6e59109d82"
+
+[update]
+[update.modrinth]
+mod-id = "7JTDDmRT"
+version = "tOWwOzy4"

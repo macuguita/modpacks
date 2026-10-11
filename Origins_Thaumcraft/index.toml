@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful_trinkets-1.0.0.jar"
-hash = "c363a8c11f377e1f463f0d1cfbbed71ddb46cd3bd44d85c8c68a9231bc201839"
+hash = "e4861e49c9f19679b7c3a7c295c8da2acd06a6e91ae672948c97c872ec0566d7"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "023480b7fd80076d8a292fdd83aa656b530b4f30afa8bb05e788c67fbb98adb4"
+hash = "1750e67c16d8020a2678d8e581773175a60dcf55cf32711db36472e0987ca50d"
 metafile = true
 
 [[files]]
@@ -120,23 +120,23 @@ hash = "5e3dea4ed877c0db59ead12343d60ce1c945979ee7bdc4c55b62a4815b55f396"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "82f7daba5d7a86372b4a62e5f3522ca47bef266144ff18846f8be8881b8d13cd"
+metafile = true
+
+[[files]]
 file = "mods/falldropbackport.pw.toml"
 hash = "a2d9f5ad0aafb52d34e4271bfabfee437f6c5d857089dfc56963ffd941e3ec33"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "de19b1a441fc7fcd8b41dff8ae492f2ed7f76f9890128b54db1a079655d575c6"
+hash = "70517917113f6837414bdc755af2cc4ad4c94fd7750189a24e73f08311628e60"
 metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "dd4e925cba56d5ce8c6779d536523424155dce15c773cd023c295cf32e7a8ba5"
-metafile = true
-
-[[files]]
-file = "mods/friendlist-p2p-play-backport.pw.toml"
-hash = "2e87a53f3cf2b02c2235f6de5ff76f4eaeb72f846bc488e54c38bdda37752c21"
 metafile = true
 
 [[files]]
@@ -170,13 +170,18 @@ hash = "f12f514a9ce9f12ed85983998724c1035b28b3470c5f992efe475f41533eed69"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0eb2e237da82592074d19a9ebdd59b1a2709e6573d68e8b5e59e2eecca18b3d8"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
 metafile = true
 
 [[files]]
 file = "mods/launchpad.pw.toml"
-hash = "a8f4645c2192134acbe6534dddbcc5b9156af2ad81792a5e5a781e173b603a31"
+hash = "ff7d6bc85b30bf567f4661b5a26f43e5284896b4ac634f188dde63536f5e0564"
 metafile = true
 
 [[files]]
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "ab8ecf9e10ba7f3897f8331d90754ac44d34ecbc7e9a78ef65f089e742d8efac"
+metafile = true
+
+[[files]]
+file = "mods/macu-lib.pw.toml"
+hash = "18eaff1e0ca1321b44307d3a80b70872d34a586f0bceff7727bcbc4ed2129c22"
 metafile = true
 
 [[files]]
@@ -211,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/random_player_height-1.0.0.jar"
-hash = "55d13e2d88673ed575230b45cc7e9183ad2ca6475ad640b4df7374b9d12c7fbb"
+hash = "873237639bc456cd0a5ad595521b9cb875513789df7e283b0a521a577d3549c5"
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
@@ -229,6 +239,11 @@ hash = "2959f9140c59305fc6d394c10afcdc1fb38f08cd8bd500900ca40eb4100b06d2"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d0c3552cd85613c753a1d7968ba52100ae2d01039e5549056dbffac566b9cdc6"
 metafile = true
@@ -240,17 +255,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e7657bf606fa2668b0fbedd0b0a972c4ad676a12a0ca19b4538dd5ac02cacf7c"
+hash = "6389344c211c322a2f56a60e1323e39c429055e7c69883d4a98ef74aad8b3180"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e90cce2cb8f6cfabca1d031105df196fd7627488314f18d10ea70757942d1e2d"
+hash = "36cdf75c4d11c3c78a011efc387f308b71c5ddcbe403df7c23cb23bf0497c484"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "54f875dd54ff168aeda6fafd7c2dbc4bc9f81056fba680e880a0f09ca3b3762c"
+hash = "e5268ff004f375d96d34648768270c5570954c60f3543aebbdbb83c6c4830b25"
 metafile = true
 
 [[files]]
@@ -276,4 +291,59 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d7b79bcad1606952e5efddb48836bcd3760e4ebe38fa77b5f3576a4a4f26563a"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "ef508566664897106d138f57ec340d8e535d01eac37d2cc363584b79b7b70842"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "635e80631d5ef55e7e19c4bedc55cce7e31af86fa75847cc915a9ff86a60cd17"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "a44749e70f403caf5cce20e86ff3cc79b827bd838578a941afb725535c90adb3"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-mineshaft-overhaul.pw.toml"
+hash = "7c44001c4833e1da54a5848c97fd27dae6b8ea93e137e40b9aa555f378194bad"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "cc711d7d86a14011c479d88f801d53843a95fd9ed50c8954b682a218aaa02830"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "848fab8255bfc204ad42d2ebe504909452d7c8f924a2c76a2c9c0658c093d9ea"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "6305cfd0cc6b7cfb9f13d85dbb163349dd89fd79800885733a31ed9c60bd845a"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "614ae9bf602aaec1e57c84fb136a42ad73ae8e8e0e02441982569f890c709fec"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "2a41604b12b5a9f070e70b1f446ca85fb804dcebaa61881644ca0fd59fb50e19"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "8445532cb7d73b4a062fda87754d3a2fd5748b38d7a874b9dae82f4237033dc0"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns.pw.toml"
+hash = "631bd565fa834ffcb645dbde9e4262e4c32254679817f186928f2e1241eaa546"
 metafile = true

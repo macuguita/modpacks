@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Nether Fortress Overhaul"
+filename = "DnT Nether Fortress Overhaul v3.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/3u94EXVg/DnT%20Nether%20Fortress%20Overhaul%20v3.1.zip"
+hash-format = "sha512"
+hash = "4553734b3eac9d4da2d14e1b99c291543c487909bfe018cdb2ac0a4c8db5dceae2b08158a2a2823ff5398fec244baeb2b66e8b0968ec8e7496a26a05ff2b9b45"
+
+[update]
+[update.modrinth]
+mod-id = "8Dbnvm77"
+version = "3u94EXVg"

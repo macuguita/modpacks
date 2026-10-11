@@ -1,0 +1,8 @@
+name = "macu_lib"
+filename = "macu_lib-3.0.6+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://maven.macuguita.com/releases/com/macuguita/macu_lib/3.0.6+26.1.2/macu_lib-3.0.6+26.1.2.jar"
+hash-format = "sha256"
+hash = "ada6214e7722e28b62edaf59dae9167e8adde8c5622b818fa558e92bb6b2652c"

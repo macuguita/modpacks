@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Pillager Outpost Overhaul"
+filename = "DnT Pillager Outpost Overhaul v3.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QIt10I7z/versions/uAHOlrKb/DnT%20Pillager%20Outpost%20Overhaul%20v3.3.zip"
+hash-format = "sha512"
+hash = "bf3ae77f56642a82c217e417cdd6f6ead41ef13ac7da3cc3e70467833490f485cb6c7619c43db9714d00c70a200cdbde5e841b372d93d781e41c6021376fcae0"
+
+[update]
+[update.modrinth]
+mod-id = "QIt10I7z"
+version = "uAHOlrKb"

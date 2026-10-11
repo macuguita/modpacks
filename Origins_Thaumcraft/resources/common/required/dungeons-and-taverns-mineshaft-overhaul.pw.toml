@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Mineshaft Overhaul"
+filename = "DnT Mineshaft Overhaul v1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ozLFhOy3/versions/ptokDzoL/DnT%20Mineshaft%20Overhaul%20v1.zip"
+hash-format = "sha512"
+hash = "ef05a5a6866fde305990aadae6b3d4cea0316e4d55a0d8a7ba32468d6f55c3c4ee6ddd85d6358c1a86a442633bd92840343ae6a567a469ea33290fb39832217f"
+
+[update]
+[update.modrinth]
+mod-id = "ozLFhOy3"
+version = "ptokDzoL"

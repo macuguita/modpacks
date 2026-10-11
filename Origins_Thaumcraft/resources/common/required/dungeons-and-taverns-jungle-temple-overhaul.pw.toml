@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Jungle Temple Overhaul"
+filename = "DnT Jungle Temple Overhaul v2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHjYCS0f/versions/ljTHNYiU/DnT%20Jungle%20Temple%20Overhaul%20v2.1.zip"
+hash-format = "sha512"
+hash = "33458705a6a03d0231d9a549427dcb94cce0d7ab92a78c82c0617914a6a268ff4d02b0dc18acebdbc305454ed18089b445c4a7794c321d834e9c30306b670942"
+
+[update]
+[update.modrinth]
+mod-id = "oHjYCS0f"
+version = "ljTHNYiU"

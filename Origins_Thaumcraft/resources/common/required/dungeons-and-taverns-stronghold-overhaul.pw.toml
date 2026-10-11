@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Stronghold Overhaul"
+filename = "DnT Stronghold Overhaul v2.4.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYocd2LE/versions/L1ylllq1/DnT%20Stronghold%20Overhaul%20v2.4.0.zip"
+hash-format = "sha512"
+hash = "98717889e12744c0625b4996c5471ad7938068b48749ef45aa80e82ed06512282386906b67a491ba144e6f692bdbf42a140dc85a90a4c7c201c0155a358724b4"
+
+[update]
+[update.modrinth]
+mod-id = "rYocd2LE"
+version = "L1ylllq1"
