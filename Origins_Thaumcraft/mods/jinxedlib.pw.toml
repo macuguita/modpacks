@@ -1,0 +1,13 @@
+name = "JinxedLib"
+filename = "jinxedlib-neoforge-26.1.2-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vrr7WtS4/versions/w9mboCYS/jinxedlib-neoforge-26.1.2-1.0.7.jar"
+hash-format = "sha512"
+hash = "fc3333e348d12bb12af7b73efe34e8d266477cf99bf1da07e08a7740beec4dbf63533d74f28354b106cb957cf9154967bce60cbe06768fd29bec07046638d296"
+
+[update]
+[update.modrinth]
+mod-id = "Vrr7WtS4"
+version = "w9mboCYS"

@@ -16,6 +16,11 @@ hash = "2af7557b5e1ab47532d394ae8909319f2f3b092498b270e66a3aa51835458636"
 metafile = true
 
 [[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "2ae1f73e62025e5be9415d7d3d6f584381795c07acab70e2031d6c44d14bdc95"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "31126b696fad81abe8d6deaccd93e12cd78d796687e1c9db7558432b5e5b853d"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "a86721cc79a893f06048ac7834856bb78cf8fd937f1fc043898f1305182c066b"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "cc3cb2c1d4b684e1b3472049d77b2bee3a45b700d4fae93c2d68316e337988a5"
 metafile = true
 
 [[files]]

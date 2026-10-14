@@ -1,0 +1,13 @@
+name = "Arts & Crafts"
+filename = "arts_and_crafts-neoforge-26.1.2-1.6.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JI9mEkvq/versions/R9LhGHlU/arts_and_crafts-neoforge-26.1.2-1.6.0-beta.jar"
+hash-format = "sha512"
+hash = "2d8401c975534cfeebcb16083eb0e5e077b17fa790dc255443ff1b77d08a412e571c619086c6bfec7caed8fadc2fbb8d63e03aa8d87ee07266bddb02b0a1ae43"
+
+[update]
+[update.modrinth]
+mod-id = "JI9mEkvq"
+version = "R9LhGHlU"
