@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-neoforge-26.1.2-4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DYtfQEYj/versions/YJVsBCh6/effortlessbuilding-neoforge-26.1.2-4.3.jar"
+hash-format = "sha512"
+hash = "0ef3866f7802d11fe0de4554c58f7bf3f43fd05f23878c220596ff24c579f2058007decf92d75f6c4985b9eb69f5d43a06f500bccb72e75a5722164b24ed1542"
+
+[update]
+[update.modrinth]
+mod-id = "DYtfQEYj"
+version = "YJVsBCh6"

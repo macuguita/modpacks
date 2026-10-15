@@ -1,0 +1,13 @@
+name = "Ecliptic Seasons"
+filename = "EclipticSeasons-26.1.2-neoforge-0.15.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/xzCPM2sX/EclipticSeasons-26.1.2-neoforge-0.15.4.jar"
+hash-format = "sha512"
+hash = "295c29f4da16f2ff03a29184db98e720ea163eb283e38ddc9c602e559f0154c24b4d0bda0c0bb84d1cfad8882e0421f634e231355982f18aa50fe18196fbadb5"
+
+[update]
+[update.modrinth]
+mod-id = "ofdM7yJE"
+version = "xzCPM2sX"

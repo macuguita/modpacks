@@ -1,0 +1,13 @@
+name = "e4all"
+filename = "e4all-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fB1gJLGX/versions/F5biDdXR/e4all-neoforge-2.2.0.jar"
+hash-format = "sha512"
+hash = "7d84331c38558c46c5949267306526f7625a6db665394c9a0130825b567a7f611ccdb1dbbc90d91dcfcae899651e023dc3f9a68079626750ea9578814d6ba843"
+
+[update]
+[update.modrinth]
+mod-id = "fB1gJLGX"
+version = "F5biDdXR"

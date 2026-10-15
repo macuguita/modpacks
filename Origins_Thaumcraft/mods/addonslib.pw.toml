@@ -1,0 +1,13 @@
+name = "AddonsLib"
+filename = "addonslib-neoforge-26.1.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/v0ST96hY/addonslib-neoforge-26.1.2-1.1.jar"
+hash-format = "sha512"
+hash = "88fcf0ae20c2c15e4a9a592ea14a7016ea67f56f8c17550eb883b6d640c343ce91e6a6ae50870f7e732f6fcc27587c61b46294e13e18bd074738597b6a4877d0"
+
+[update]
+[update.modrinth]
+mod-id = "cl5ec0Qm"
+version = "v0ST96hY"
